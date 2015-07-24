@@ -1,0 +1,170 @@
+{
+    "590e38e4-cf2b-11e3-aa5c-08002753f3d2": {
+        "id": "6274",
+        "uuid": "590e38e4-cf2b-11e3-aa5c-08002753f3d2",
+        "contact": {
+            "first_name": "Heero",
+            "last_name": "Yuy",
+            "email": "heero@gundamwing.com",
+            "phone": "613-999-9999",
+            "phone_ext": "991"
+        },
+        "event_name": {
+            "en": "New exhibition: Energy: Power to Choose",
+            "fr": "Nouvelle exposition : Énergie: le pouvoir choisir"
+        },
+        "event_type": "single",
+        "organization": {
+            "organizationId": "586de970-cf2b-11e3-aa5c-08002753f3d2"
+        },
+        "cost": "paid",
+        "cost_details": {
+            "en": "museum admission applies",
+            "fr": "entrée au musée applique"
+        },
+        "event_info": {
+            "phone": "613-991-9999",
+            "phone_ext": "",
+            "email": "info@free-me.com",
+            "url": "http://free-me.com"
+        },
+        "description": {
+            "en": "In this interactive new exhibition, plug in to practical tips and pledge your action to better conserve energy. Contribute to a country-wide discussion on energy production and consumption in Canada and their effects on the environment and on our quality of life at energy.free-me.ca",
+            "fr": "Dans cette nouvelle exposition interactive , brancher à des conseils pratiques et engager votre action afin de mieux conserver l'énergie . Contribuer à un débat national sur la production d'énergie et la consommation au Canada et leurs effets sur l'environnement et sur ​​notre qualité de vie au energy.free-me.ca"
+        },
+        "publishDate": "",
+        "images": ""
+    },
+    "590f5436-cf2b-11e3-aa5c-08002753f3d2": {
+        "id": "7954",
+        "uuid": "590f5436-cf2b-11e3-aa5c-08002753f3d2",
+        "contact": {
+            "first_name": "Duo",
+            "last_name": "Maxwell",
+            "email": "duo@gundamwing.com",
+            "phone": "613-999-9999",
+            "phone_ext": "39711"
+        },
+        "event_name": {
+            "en": "Duo Maxwell: Come Skate with Me",
+            "fr": "Duo Maxwell: Venez avec moi Skate"
+        },
+        "event_type": "single",
+        "organization": {
+            "organizationId": "586de970-cf2b-11e3-aa5c-08002753f3d2"
+        },
+        "cost": "free",
+        "cost_details": "",
+        "event_info": {
+            "phone": "",
+            "phone_ext": "",
+            "email": "",
+            "url": "http://www.ottawagraphy.ca/projects/pg/duo-maxwell-come-skate-me"
+        },
+        "description": {
+            "en": "What happens when you combine cold outdoor skating rinks, long practice sessions and a determined gundam pilot?  Duo Maxwell and world record holder!\nCome visit this exciting new exhibit about Ottawa-born figure skating champion Duo Maxwell.",
+            "fr": "Qu'advient-il lorsque vous combinez des patinoires en plein air froid de patinage , des séances de pratique longue et un gundam pilote déterminé ? Duo Maxwell et détenteur du record du monde ! Ncome visiter cette nouvelle exposition passionnante sur Ottawa - né championne de patinage artistique Duo Maxwell ."
+        },
+        "publishDate": "",
+        "images": ""
+    },
+    "590fb37c-cf2b-11e3-aa5c-08002753f3d2": {
+        "id": "8192",
+        "uuid": "590fb37c-cf2b-11e3-aa5c-08002753f3d2",
+        "contact": {
+            "first_name": "Trowa",
+            "last_name": "Barton",
+            "email": "trowa@gundamwing.com",
+            "phone": "613-999-9999",
+            "phone_ext": "992"
+        },
+        "event_name": {
+            "en": "Explore Circus Day",
+            "fr": "Explorez Cirque Jour"
+        },
+        "event_type": "single",
+        "organization": {
+            "organizationId": "586de970-cf2b-11e3-aa5c-08002753f3d2"
+        },
+        "cost": "free",
+        "cost_details": "",
+        "event_info": {
+            "phone": "",
+            "phone_ext": "",
+            "email": "trowa@gundamwing.com",
+            "url": "http://madman-entertainment.com"
+        },
+        "description": {
+            "en": "Come join our volunteers from local areas to try and tame a lion by sticking their hands in the cage.",
+            "fr": "Venez vous joindre à nos bénévoles de zones locales pour essayer de dompter un lion en collant leurs mains dans la cage ."
+        },
+        "publishDate": "",
+        "images": ""
+    },
+    "591754c4-cf2b-11e3-aa5c-08002753f3d2": {
+        "id": "8716",
+        "uuid": "591754c4-cf2b-11e3-aa5c-08002753f3d2",
+        "contact": {
+            "first_name": "Chang",
+            "last_name": "Wufei",
+            "email": "chang@gundamwing.com",
+            "phone": "613-999-9991",
+            "phone_ext": "995"
+        },
+        "event_name": {
+            "en": "Elvis - The Chang Moments",
+            "fr": "Elvis - Les Moments Chang"
+        },
+        "event_type": "single",
+        "organization": {
+            "organizationId": "586de970-cf2b-11e3-aa5c-08002753f3d2"
+        },
+        "cost": "paid",
+        "cost_details": "$42",
+        "event_info": {
+            "phone": "613-999-9991",
+            "phone_ext": "991",
+            "email": "",
+            "url": "http://shenkmanarts.ca/en/events_evenements/may_mai_2014/Elvis/index.htm"
+        },
+        "description": {
+            "en": "Back by popular demand! \nRe-live the music of Elvis Presley with the International Multi-Award winning Elvis Tribute Artist, Chang Wufei. Supporting Chang will be Sally Po.",
+            "fr": "Retour à la demande populaire ! Re - vivre la musique d'Elvis Presley avec le multi- primés internationalement Elvis Tribute Artist, Chang Wufei . Soutenir Chang sera Sally Po ."
+        },
+        "publishDate": "",
+        "images": ""
+    },
+    "5918bd50-cf2b-11e3-aa5c-08002753f3d2": {
+        "id": "8747",
+        "uuid": "5918bd50-cf2b-11e3-aa5c-08002753f3d2",
+        "contact": {
+            "first_name": "Quatra",
+            "last_name": "Winner",
+            "email": "quatra@winnerfoundation.com",
+            "phone": "819 776-9999",
+            "phone_ext": ""
+        },
+        "event_name": {
+            "en": "Ordinary People in Extraordinary Times",
+            "fr": "Des gens ordinaires en temps exceptionnels"
+        },
+        "event_type": "single",
+        "organization": {
+            "organizationId": "586df5a0-cf2b-11e3-aa5c-08002753f3d2"
+        },
+        "cost": "paid",
+        "cost_details": "Visit www.quatra-winner.com",
+        "event_info": {
+            "phone": "",
+            "phone_ext": "",
+            "email": "",
+            "url": "http://www.warmuseum.ca"
+        },
+        "description": {
+            "en": "Ordinary People in Extraordinary Times presents 10 very diverse portraits - depicting moments from Quatra Winners hardships as Gundam Pilot - that movingly illustrate the human experience in wartime",
+            "fr": "Des gens ordinaires en temps exceptionnels présente 10 portraits très divers - représentant moments de Quatra Vainqueurs difficultés que Gundam pilote - qui illustrent de façon émouvante l'expérience humaine en temps de guerre"
+        },
+        "publishDate": "",
+        "images": ""
+    }
+}

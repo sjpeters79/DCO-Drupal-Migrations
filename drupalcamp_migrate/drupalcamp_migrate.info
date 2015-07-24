@@ -1,0 +1,15 @@
+name = DrupalCamp Migrate
+description = "Module to sample data for drupal camp ottawa presentation"
+core = 7.x
+package = DrupalCamp
+dependencies[] = migrate
+dependencies[] = list
+dependencies[] = number
+dependencies[] = migrate_ui
+dependencies[] = og
+#  include the files that contain your Migrate classes
+files[] = drupalcamp_migrate.module.inc
+files[] = drupalcamp_migrate.users.inc
+files[] = drupalcamp_migrate.events.inc
+files[] = drupalcamp_migrate.og.inc
+features[features_api][] = api:2
